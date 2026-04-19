@@ -1,4 +1,4 @@
-name: erapaglia/ocr-service
+name: erapaglia/text-removal
 run: python predict.py
 python_version: "3.11"
 
