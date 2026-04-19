@@ -1,0 +1,4 @@
+name: erapaglia/ocr-service
+run: python predict.py
+python_version: "3.11"
+
